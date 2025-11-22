@@ -93,7 +93,7 @@ Each test ensured correct functionality across different inputs and user interac
 ![Login Page](screenshots/login.png)
 
 ### Registration Page
-![Registration Page](screenshots/register.png)
+![Registration Page](screenshots/registration.png)
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
